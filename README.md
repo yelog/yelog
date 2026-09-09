@@ -20,11 +20,12 @@
 
 ## Current Projects
 
+- 🧩 **[LazyDB](https://github.com/yelog/lazydb)** - Beautiful and convenient TUI database client tool
+- 🧩 **[SnapTraTranslator](https://github.com/yelog/SnapTraTranslator)** - An offline translation tool for macOS
 - 🚀 **[vibebar](https://github.com/yelog/vibebar)** - A status bar for vibe coding with Claude code, OpenCode, and Codex
 - ⚡ **[vim-flash](https://github.com/yelog/vim-flash)** - folke/flash.nvim for ideavim
 - 🌐 **[i18n.nvim](https://github.com/yelog/i18n.nvim)** - A Neovim plugin for managing i18n keys within your project
 - 🖥️ **[antdv-next-admin](https://github.com/yelog/antdv-next-admin)** - A Vue 3 admin template built with Ant Design Vue 3 and Vite
-- 🧩 **[SnapTraTranslator](https://github.com/yelog/SnapTraTranslator)** - An offline translation tool for macOS
 
 ### Legacy Work
 
